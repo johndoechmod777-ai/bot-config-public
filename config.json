@@ -2,5 +2,5 @@
   "telegram_token": "8177949033:AAFqGinzsP-o1DDcfVvgQoJ_LzWQ8J0yyC8",
   "contrasena_maestra": "SIR2025",
   "timeframe_minutos": 15,
-  "sma_periodo": 5
+  "sma_periodo": 50
 }
