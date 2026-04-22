@@ -1,0 +1,10 @@
+*.py
+*.pyx
+*.c
+*.so
+*.pyc
+build/
+__pycache__/
+iniciar_bot.py
+setup.py
+bot_oro_sir.py
