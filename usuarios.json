@@ -8,7 +8,7 @@
       "clave_personal": "SIR_MASTER_KEY",
       "telegram_chat_id": "8123415545",
       "firma": "SIR",
-      "activo": false
+      "activo": true
     }
   ]
 }
