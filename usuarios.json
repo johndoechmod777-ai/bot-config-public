@@ -19,6 +19,20 @@
       "telegram_chat_id": "1640725051",
       "firma": "SIR",
       "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "LuxAbr",
+      "usuario": "LuxAbr",
+      "contrasena_maestra": "SIR2025",
+      "clave_personal": "LuxAbr2026",
+      "telegram_chat_id": "1828016601",
+      "firma": "SIR",
+      "activo": true
     }
   ]
 }
+
+
+
+
